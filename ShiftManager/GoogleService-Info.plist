@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>147125782459-d9v410mqjv0h9qkqhohgdfj7qri2cl0t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.147125782459-d9v410mqjv0h9qkqhohgdfj7qri2cl0t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCsfvR6HLdtbDEn2RW6c0a2oAtpeZkhsYg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>147125782459</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>popizdead.ShiftManager</string>
+	<key>PROJECT_ID</key>
+	<string>shiftmanager-9837e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shiftmanager-9837e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:147125782459:ios:5dc8612b7d4f83e9e4e69e</string>
+	<key>DATABASE_URL</key>
+	<string>https://shiftmanager-9837e.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+/* Total week earning */
+"Total week earning: (earningTotalWeek)(currentUser.currency)" = "Заработок за неделю: (earningTotalWeek)(currentUser.currency)";
+
+/* Total week hours */
+"Total week hours: (hoursTotalWeek)" = "Часов за неделю: (hoursTotalWeek)";
+

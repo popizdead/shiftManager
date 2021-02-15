@@ -1,0 +1,252 @@
+/* Class = "UILabel"; text = "Show average value in review"; ObjectID = "0l9-SM-KJS"; */
+"0l9-SM-KJS.text" = "Показывать среднее значение";
+
+/* Class = "UILabel"; text = "No sheduled shifts on week"; ObjectID = "1mr-ig-Bba"; */
+"1mr-ig-Bba.text" = "Нет запланированных смен на неделе";
+
+/* Class = "UILabel"; text = "Start time"; ObjectID = "1og-Su-Z0a"; */
+"1og-Su-Z0a.text" = "Начало";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "1UZ-oI-2U3"; */
+"1UZ-oI-2U3.normalTitle" = "Добавить";
+
+/* Class = "UILabel"; text = "Total earning:"; ObjectID = "2VG-Ur-gON"; */
+"2VG-Ur-gON.text" = "Всего заработано:";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "2xj-y0-lVd"; */
+"2xj-y0-lVd.normalTitle" = "Добавить";
+
+/* Class = "UITextField"; text = "₪"; ObjectID = "2ZP-R8-Hjo"; */
+"2ZP-R8-Hjo.text" = "₪";
+
+/* Class = "UILabel"; text = "31/12"; ObjectID = "5hx-c2-d3S"; */
+"5hx-c2-d3S.text" = "31/12";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "5ly-Rh-hS1"; */
+"5ly-Rh-hS1.text" = "Название";
+
+/* Class = "UILabel"; text = "End time"; ObjectID = "7IB-MT-6hC"; */
+"7IB-MT-6hC.text" = "Конец";
+
+/* Class = "UIButton"; normalTitle = "Custom"; ObjectID = "42h-r0-FZU"; */
+"42h-r0-FZU.normalTitle" = "Промежуток";
+
+/* Class = "UILabel"; text = "Week"; ObjectID = "44F-Pq-nSG"; */
+"44F-Pq-nSG.text" = "Неделя";
+
+/* Class = "UILabel"; text = "Earning:"; ObjectID = "88x-ne-j8c"; */
+"88x-ne-j8c.text" = "Заработано:";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "aPM-bl-Mav"; */
+"aPM-bl-Mav.text" = "Понедельник";
+
+/* Class = "UILabel"; text = "per hour"; ObjectID = "aV1-A6-tvR"; */
+"aV1-A6-tvR.text" = "в час";
+
+/* Class = "UILabel"; text = "Total hours of work:"; ObjectID = "B4k-Hw-FbR"; */
+"B4k-Hw-FbR.text" = "Всего часов работы:";
+
+/* Class = "UILabel"; text = "Time:"; ObjectID = "Bez-mn-YDY"; */
+"Bez-mn-YDY.text" = "Время:";
+
+/* Class = "UIButton"; normalTitle = "Week"; ObjectID = "BLJ-wb-yLX"; */
+"BLJ-wb-yLX.normalTitle" = "Неделя";
+
+/* Class = "UILabel"; text = "From:"; ObjectID = "CBy-g6-nzh"; */
+"CBy-g6-nzh.text" = "С:";
+
+/* Class = "UIButton"; normalTitle = "Month"; ObjectID = "cch-yv-bSm"; */
+"cch-yv-bSm.normalTitle" = "Месяц";
+
+/* Class = "UILabel"; text = "Currency"; ObjectID = "cec-mb-x3c"; */
+"cec-mb-x3c.text" = "Валюта";
+
+/* Class = "UILabel"; text = "Welcome!"; ObjectID = "dAX-x5-IQM"; */
+"dAX-x5-IQM.text" = "Добро пожаловать!";
+
+/* Class = "UILabel"; text = "Average for"; ObjectID = "ddT-lI-ld0"; */
+"ddT-lI-ld0.text" = "Среднее за";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "DIs-ng-Toq"; */
+"DIs-ng-Toq.text" = "Пароль";
+
+/* Class = "UILabel"; text = "Confirm password"; ObjectID = "Dle-OF-THW"; */
+"Dle-OF-THW.text" = "Подтвердите пароль";
+
+/* Class = "UILabel"; text = "Hours of work:"; ObjectID = "dng-IU-tmD"; */
+"dng-IU-tmD.text" = "Часов работы:";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "eoI-li-5hh"; */
+"eoI-li-5hh.normalTitle" = "Выйти";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ew8-Lf-MAe"; */
+"Ew8-Lf-MAe.text" = "Label";
+
+/* Class = "UILabel"; text = "Shifts: 2"; ObjectID = "fPx-lz-mZR"; */
+"fPx-lz-mZR.text" = "Смен: 2";
+
+/* Class = "UILabel"; text = "End time"; ObjectID = "fqi-am-NJe"; */
+"fqi-am-NJe.text" = "Конец";
+
+/* Class = "UILabel"; text = "Average per day:"; ObjectID = "fSh-TB-ZsW"; */
+"fSh-TB-ZsW.text" = "Среднее за день:";
+
+/* Class = "UILabel"; text = "12:00-17:00"; ObjectID = "fyg-5y-tkm"; */
+"fyg-5y-tkm.text" = "12:00-17:00";
+
+/* Class = "UILabel"; text = "Avg"; ObjectID = "Haf-Yl-9GN"; */
+"Haf-Yl-9GN.text" = "Среднее";
+
+/* Class = "UILabel"; text = "in"; ObjectID = "Iru-su-qUW"; */
+"Iru-su-qUW.text" = "В";
+
+/* Class = "UILabel"; text = "End time"; ObjectID = "jbd-oS-PM4"; */
+"jbd-oS-PM4.text" = "Конец";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "jGu-4s-hnO"; */
+"jGu-4s-hnO.normalTitle" = "Регистрация";
+
+/* Class = "UILabel"; text = "I'm getting tips"; ObjectID = "jgu-Ys-JWp"; */
+"jgu-Ys-JWp.text" = "Я получаю чаевые";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "K1c-kc-7T1"; */
+"K1c-kc-7T1.text" = "Почта";
+
+/* Class = "UILabel"; text = "Job name"; ObjectID = "ke9-67-lXC"; */
+"ke9-67-lXC.text" = "Название работы";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "Kfw-h2-hgV"; */
+"Kfw-h2-hgV.normalTitle" = "Изменить";
+
+/* Class = "UILabel"; text = "Total week earning: 1357₪"; ObjectID = "KKh-PE-sOe"; */
+"KKh-PE-sOe.text" = "Заработок за неделю: 1357₪";
+
+/* Class = "UILabel"; text = "Add your first shift"; ObjectID = "lme-c6-igw"; */
+"lme-c6-igw.text" = "Добавь свою первую смену";
+
+/* Class = "UILabel"; text = "Total days of work:"; ObjectID = "mRG-HJ-r47"; */
+"mRG-HJ-r47.text" = "Всего дней работы:";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "mYK-78-JyG"; */
+"mYK-78-JyG.text" = "4";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "N2T-vb-Vn8"; */
+"N2T-vb-Vn8.text" = "-";
+
+/* Class = "UILabel"; text = "110₪"; ObjectID = "Nc7-NY-z4J"; */
+"Nc7-NY-z4J.text" = "110₪";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Nr1-Hz-AJx"; */
+"Nr1-Hz-AJx.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Salary per hour"; ObjectID = "nuL-jF-PHM"; */
+"nuL-jF-PHM.text" = "Зарплата в час";
+
+/* Class = "UILabel"; text = "All time"; ObjectID = "O7i-BI-cho"; */
+"O7i-BI-cho.text" = "За все время";
+
+/* Class = "UILabel"; text = "Start time"; ObjectID = "oIc-gY-Zb0"; */
+"oIc-gY-Zb0.text" = "Начало";
+
+/* Class = "UITextField"; text = "30"; ObjectID = "oRA-kY-ozj"; */
+"oRA-kY-ozj.text" = "30";
+
+/* Class = "UILabel"; text = "Day earning:"; ObjectID = "oRo-f2-SlL"; */
+"oRo-f2-SlL.text" = "Заработок за день:";
+
+/* Class = "UILabel"; text = "Start time"; ObjectID = "pk4-tH-PIV"; */
+"pk4-tH-PIV.text" = "Начало";
+
+/* Class = "UILabel"; text = "2832₪"; ObjectID = "pxn-bJ-iR1"; */
+"pxn-bJ-iR1.text" = "2832₪";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Q8i-vm-uvt"; */
+"Q8i-vm-uvt.normalTitle" = "Логин";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "qak-be-dl9"; */
+"qak-be-dl9.normalTitle" = "Сохранить";
+
+/* Class = "UILabel"; text = "257"; ObjectID = "QGh-nL-HMl"; */
+"QGh-nL-HMl.text" = "257";
+
+/* Class = "UILabel"; text = "7"; ObjectID = "Qn0-0e-pja"; */
+"Qn0-0e-pja.text" = "7";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "qO9-ev-Ybl"; */
+"qO9-ev-Ybl.normalTitle" = "Добавить";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "R8d-2j-hlg"; */
+"R8d-2j-hlg.text" = "Понедельник";
+
+/* Class = "UILabel"; text = "Avg"; ObjectID = "RCR-Em-FDN"; */
+"RCR-Em-FDN.text" = "Среднее";
+
+/* Class = "UILabel"; text = "Already earned this month"; ObjectID = "RHS-Cq-fmP"; */
+"RHS-Cq-fmP.text" = "На сегодняшний день заработано:";
+
+/* Class = "UILabel"; text = "2832₪"; ObjectID = "rtJ-n2-fqP"; */
+"rtJ-n2-fqP.text" = "2832₪";
+
+/* Class = "UILabel"; text = "Salary"; ObjectID = "RxQ-hw-CZT"; */
+"RxQ-hw-CZT.text" = "Зарплата";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "s3E-hh-tAp"; */
+"s3E-hh-tAp.text" = "4";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Sqc-aG-PiN"; */
+"Sqc-aG-PiN.normalTitle" = "Следующий";
+
+/* Class = "UILabel"; text = "Total week hours: 47"; ObjectID = "SZX-OW-Hee"; */
+"SZX-OW-Hee.text" = "Всего часов работы в неделю: 47";
+
+/* Class = "UILabel"; text = "Avg"; ObjectID = "TcU-m8-XrM"; */
+"TcU-m8-XrM.text" = "Среднее";
+
+/* Class = "UILabel"; text = "Average hours per day:"; ObjectID = "tGO-XJ-T7V"; */
+"tGO-XJ-T7V.text" = "В среднем часов работы за день:";
+
+/* Class = "UILabel"; text = "215₪"; ObjectID = "tHA-4L-9FZ"; */
+"tHA-4L-9FZ.text" = "215₪";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "UE4-2G-VYV"; */
+"UE4-2G-VYV.normalTitle" = "Изменить";
+
+/* Class = "UILabel"; text = "36"; ObjectID = "uuv-YS-wnK"; */
+"uuv-YS-wnK.text" = "36";
+
+/* Class = "UILabel"; text = "To:"; ObjectID = "v8B-OF-sJA"; */
+"v8B-OF-sJA.text" = "По:";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "VDX-c6-zEB"; */
+"VDX-c6-zEB.normalTitle" = "Удалить";
+
+/* Class = "UIButton"; normalTitle = "Week"; ObjectID = "vmb-mg-cG8"; */
+"vmb-mg-cG8.normalTitle" = "Неделя";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "W4V-xr-TJu"; */
+"W4V-xr-TJu.text" = "4";
+
+/* Class = "UILabel"; text = "12:00-15:00"; ObjectID = "weH-Bs-N04"; */
+"weH-Bs-N04.text" = "12:00-15:00";
+
+/* Class = "UILabel"; text = "Month"; ObjectID = "XaN-bO-cWT"; */
+"XaN-bO-cWT.text" = "Месяц";
+
+/* Class = "UILabel"; text = "Avg"; ObjectID = "XeF-KV-tPO"; */
+"XeF-KV-tPO.text" = "Среднее";
+
+/* Class = "UILabel"; text = "Earning: 350₪"; ObjectID = "XSf-k4-ETQ"; */
+"XSf-k4-ETQ.text" = "Заработок: 350₪";
+
+/* Class = "UILabel"; text = "End time"; ObjectID = "XuX-qY-YX5"; */
+"XuX-qY-YX5.text" = "Конец";
+
+/* Class = "UILabel"; text = "Total shifts:"; ObjectID = "Yh3-JH-IqG"; */
+"Yh3-JH-IqG.text" = "Всего смен:";
+
+/* Class = "UILabel"; text = "Start time"; ObjectID = "Za4-QT-wI4"; */
+"Za4-QT-wI4.text" = "Начало";
+
+/* Class = "UITextField"; text = "Nini Hachi"; ObjectID = "Zze-WQ-Uq2"; */
+"Zze-WQ-Uq2.text" = "Nini Hachi";
+
