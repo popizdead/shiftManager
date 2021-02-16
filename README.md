@@ -8,7 +8,7 @@ Charts https://github.com/danielgindi/Charts
 
 
 **You can see statistic of your earnings**  
-![](Statistics.gif), ![](CustomStatistic.gif)
+![](Statistics.gif) ![](CustomStatistic.gif)
 
 
 **When you had shifts**  
@@ -16,8 +16,8 @@ Charts https://github.com/danielgindi/Charts
 
 
 **Write your shifts**  
-![](ceratingShiftPattern.gif), ![](UsingPattern.gif)
+![](ceratingShiftPattern.gif) ![](UsingPattern.gif)
 
 
 **Auth screens**  
-![](AuthScreen.gif), ![](Registration.gif)
+![](AuthScreen.gif) ![](Registration.gif)
