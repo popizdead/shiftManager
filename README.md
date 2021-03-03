@@ -7,17 +7,28 @@ Charts https://github.com/danielgindi/Charts
 **This is my first application dont be strick :)**  
 
 
-**You can see statistic of your earnings**  
-![](Statistics.gif) ![](CustomStatistic.gif)
+**You can see statistic of your earnings**
+<p float="left">
+<img width="100" src="https://github.com/popizdead/shiftManager/blob/main/Registration.gif"></img>
+<img width="100" src="https://github.com/popizdead/shiftManager/blob/main/CustomStatistic.gif"></img>
+</p>
 
 
-**When you had shifts**  
-![](AnotherDates.gif)
+
+**When you had shifts**
+<p float="left">
+<img width="100" src="https://github.com/popizdead/shiftManager/blob/main/AnotherDates.gif"></img>
+</p>
 
 
-**Write your shifts**  
-![](ceratingShiftPattern.gif) ![](UsingPattern.gif)
+**Write your shifts**
+<p float="left">
+<img width="100" src="https://github.com/popizdead/shiftManager/blob/main/ceratingShiftPattern.gif"></img>
+<img width="100" src="https://github.com/popizdead/shiftManager/blob/main/UsingPattern.gif"></img>
+</p>
 
-
-**Auth screens**  
-![](AuthScreen.gif) ![](Registration.gif)
+**Auth screens**
+<p float="left">
+<img width="100" src="https://github.com/popizdead/shiftManager/blob/main/AuthScreen.gif"></img>
+<img width="100" src="https://github.com/popizdead/shiftManager/blob/main/Registration.gif"></img>
+</p>
